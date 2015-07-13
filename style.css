@@ -1,0 +1,39 @@
+body{
+    background-image: url(images/travelworthy-backdrop.jpg);
+}
+aside{
+    background-color: black;
+    min-height: 100%;
+    
+    
+}
+.latest {
+    padding-top: 80px;
+    color: #88C5A9;
+    text-align: center;
+}
+h3 {
+    color: #EFE2C9;
+    text-align: center;
+}
+.one{
+    margin-left: 10%;
+    text-decoration: line-through;
+    color: #989697;
+    font-size: 100%;
+}
+.two{
+    color: #FFB87A;
+    text-align: center;
+    font-size: 520%;
+}
+.room{
+    color: #9DA6B4;
+    text-align: center;
+    font-size: 120%;
+}
+.offer{
+    color: #DA9A5E;
+    text-align: center;
+    font-size: 120%;
+}
